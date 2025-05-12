@@ -1,4 +1,4 @@
-package Testcase;
+package Testcase_Selenium;
 
 
 import Setup.GenericClass;
