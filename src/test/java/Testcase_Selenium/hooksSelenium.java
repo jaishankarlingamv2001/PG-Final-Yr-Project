@@ -22,7 +22,6 @@ public class hooksSelenium {
     public wordDocumentManager wordDocumentManager;
     public pageObjectManager pageObjectManager;
     public GenericClass genericClass;
-
     //    public hooksSelenium() {
 //        this.pageObjectManager = new pageObjectManager();
 //        this.screenshotManager =pageObjectManager.getScreenshotManager();
