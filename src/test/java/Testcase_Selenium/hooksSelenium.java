@@ -23,7 +23,6 @@ public class hooksSelenium {
     public pageObjectManager pageObjectManager;
     public GenericClass genericClass;
 
-
     //    public hooksSelenium() {
 //        this.pageObjectManager = new pageObjectManager();
 //        this.screenshotManager =pageObjectManager.getScreenshotManager();
